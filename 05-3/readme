@@ -1,1 +1,3 @@
+This is assignment 05-3:
+This assignment offers a neural network solution for recognizing handwritten digits from the MNIST dataset. Built in Python, the model uses a straightforward three-layer neural network with pre-trained weights saved in an external file. It features two hidden layers with sigmoid activation functions and a softmax-activated output layer, enabling accurate digit classification from image pixels. The project is organized to load, preprocess, and evaluate MNIST data, making it easy to test model performance and measure accuracy on new data. Ideal for those interested in neural network implementation or exploring digit classification, this repository provides a hands-on approach to classic machine learning techniques.
 
